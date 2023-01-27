@@ -1,1 +1,1 @@
-# Javeriana_Python
+# Javeriana_Python es un repositorio creado por un estudiante inscrito en el curso de Informática ofrecido por la Pontificia Universidad Javeriana sede Cali cuyo fin rádica en el almacenamiento de cualquier codigo creado/usado mediante Python durante el transcurso de este asignatura en el primer semestre del año 2023 (2023-1).
